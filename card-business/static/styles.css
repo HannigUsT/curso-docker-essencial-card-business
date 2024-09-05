@@ -13,8 +13,8 @@ body {
   background-color: white;
   padding: 20px;
   text-align: left;
-  font-family: 'Quicksand', sans-serif;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, .4);
+  font-family: "Quicksand", sans-serif;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
   border-radius: 4px 4px;
 }
 
@@ -38,4 +38,4 @@ body {
   margin-bottom: 20px;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap')
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
